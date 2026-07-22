@@ -2,7 +2,7 @@
 
 **Data Scientist** · **Philosopher-Builder Aspirant** · Netherlands 🇳🇱
 
-> Algorithmic Fairness & AI Ethics · Transforming 5 years of financial-crime ML
+> Machine Learning & AI · Algorithmic Fairness & AI Ethics · Transforming 5 years of FinCrime ML
 into production engineering.
 
 Welcome to my GitHub! Here is where I store and display my technical personal projects, both professional and learning adventures. 
