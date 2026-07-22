@@ -30,6 +30,12 @@ exploiting our weaknesses](https://open.substack.com/pub/cosmosinstitute/p/the-p
 Python · PySpark · FastAPI  · SQL · Docker · pytest · PyTorch ·
 Azure · Git/CI-CD · Databricks
 
+![GitHub Stats](https://vercel.app)
+
+![Top Languages](https://vercel.app)
+
+![Profile Views](https://komarev.com)
+
 <!--
 **amelendez-ds/amelendez-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
