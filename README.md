@@ -10,7 +10,7 @@ I am fascinated by the field of Machine Learning and all of the opportunities th
 I am a philosopher by education, and a programmer by trade. 
 
 I strongly resonate with the idea of the [Philosopher-Builder](https://blog.cosmos-institute.org/p/the-philosopher-builder): we need to
-understand why we create and question who we create for, and how it will impact others. I believe that embedding in our code, processes, and
+understand why we create, and question who we create it for -  how are we affecting our (social, economical, political, natural) environment? I believe that embedding in our code, processes, and
 uses of new tech the wisdom of the ages, the spark of humanity, is foundational to developing tools that [enhance our human capabilities instead of
 exploiting our weaknesses](https://open.substack.com/pub/cosmosinstitute/p/the-philosopher-builder?selection=9a95e60e-8659-4f11-ac51-fccee0629f0b&utm_campaign=post-share-selection&utm_medium=web&aspectRatio=instagram&textColor=%23ffffff&bgImage=true). 
 
