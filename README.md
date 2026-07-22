@@ -30,11 +30,14 @@ exploiting our weaknesses](https://open.substack.com/pub/cosmosinstitute/p/the-p
 Python · PySpark · FastAPI  · SQL · Docker · pytest · PyTorch ·
 Azure · Git/CI-CD · Databricks
 
-![GitHub Stats](https://vercel.app)
 
-![Top Languages](https://vercel.app)
-
-![Profile Views](https://komarev.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amelendez-ds&show_icons=true&theme=default" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amelendez-ds&layout=compact" alt="Top Languages" width="48%" />
+</p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=amelendez-ds&color=blue" alt="Profile Views" />
+</p>
 
 <!--
 **amelendez-ds/amelendez-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
