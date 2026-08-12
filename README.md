@@ -14,12 +14,8 @@ understand why we create, and question who we create it for -  how are we affect
 uses of new tech the wisdom of the ages, the spark of humanity, is foundational to developing tools that [enhance our human capabilities instead of
 exploiting our weaknesses](https://open.substack.com/pub/cosmosinstitute/p/the-philosopher-builder?selection=9a95e60e-8659-4f11-ac51-fccee0629f0b&utm_campaign=post-share-selection&utm_medium=web&aspectRatio=instagram&textColor=%23ffffff&bgImage=true). 
 
-> [!IMPORTANT]
-> If you have one takeaway from my GitHub, let it be this: **Unethical and Unfair Models are Bad Models.**
-
-- 🔭 Currently: deepening software & ML engineering skills (FastAPI, testing, CI/CD, MLOps)
-- 🎯 Differentiator: I build ML *and* understand the compliance context —
-  fairness evaluation, the EU AI Act, responsible-AI advisory
+- 🎯 Currently working on: deepening software & ML engineering skills (FastAPI, testing, CI/CD, MLOps)
+- ⭐️ My Differentiator: I build ML and understand the regulatory context (Fairness Evaluation, the EU AI Act, Responsible-AI advisor)
 - 🎓 MSc Cognitive Science & AI · backgrounds in Philosophy & Psychology
 
 #### Featured
