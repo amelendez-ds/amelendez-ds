@@ -5,22 +5,21 @@
 > Machine Learning & AI · Algorithmic Fairness & AI Ethics · Transforming 5 years of FinCrime ML
 into production engineering.
 
-Welcome to my GitHub! Here is where I store and display my technical personal projects, both professional and learning adventures. 
-I am fascinated by the field of Machine Learning and all of the opportunities that it brings. My unique lense is that I come from Humanities: 
+Welcome to my GitHub! Here is where I store and display my programming projects, both professional and learning adventures. 
+I am fascinated by the field of Machine Learning. My unique lense is that I come from Humanities: 
 I am a philosopher by education, and a programmer by trade. 
 
-I strongly resonate with the idea of the [Philosopher-Builder](https://blog.cosmos-institute.org/p/the-philosopher-builder): we need to
-understand why we create, and question who we create it for -  how are we affecting our (social, economical, political, natural) environment? I believe that embedding in our code, processes, and
-uses of new tech the wisdom of the ages, the spark of humanity, is foundational to developing tools that [enhance our human capabilities instead of
+I strongly resonate with the idea of the [Philosopher-Builder](https://blog.cosmos-institute.org/p/the-philosopher-builder). I abide by the need to
+understand why we create, questioning who we create it for. I also believe that embedding in our code the spark of humanity is foundational to developing tools that [enhance our human capabilities instead of
 exploiting our weaknesses](https://open.substack.com/pub/cosmosinstitute/p/the-philosopher-builder?selection=9a95e60e-8659-4f11-ac51-fccee0629f0b&utm_campaign=post-share-selection&utm_medium=web&aspectRatio=instagram&textColor=%23ffffff&bgImage=true). 
 
-- 🎯 Currently working on: deepening software & ML engineering skills (FastAPI, testing, CI/CD, MLOps)
-- ⭐️ My Differentiator: I build ML and understand the regulatory context (Fairness Evaluation, the EU AI Act, Responsible-AI advisor)
-- 🎓 MSc Cognitive Science & AI · backgrounds in Philosophy & Psychology
+- 🎯 I'm currently working on developing my software & ML engineering skills (FastAPI, testing, CI/CD, MLOps)
+- ⭐️ My differentiator is that I build ML and understand the regulatory context (Fairness Evaluation, the EU AI Act, Responsible-AI advisor)
+- 🎓 MSc Cognitive Science & AI · background in Philosophy & Psychology
 
 #### Featured
 - **[med-tracker](https://github.com/amelendez-ds/med-tracker)** — production-grade FastAPI microservice: layered
-  architecture, Protocol-based DI, 24 CI-gated tests. _Non-ML project to practice software engineering foundations_.
+  architecture, protocol-based dependency injection, 14 unit tests, 10 integration tests, CI via GitHub Actions. _Non-ML project to practice software engineering foundations_.
 
 #### Stack
 Python · PySpark · FastAPI  · SQL · Docker · pytest · PyTorch ·
